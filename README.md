@@ -22,3 +22,17 @@ Make a light blink:
     curl --request PUT \
       --url http://10.42.39.194/api/vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2/lights/4/state \
       --data '{"alert": "select"}'
+
+Lampen indeling bij Q42:
+
+    -----           -----
+    | 3 |           | 7 |
+    |   |           |   |
+    | 2 |           | 6 |
+    |   |           |   |
+    | 1 |           | 5 |
+    -----           -----
+
+    ---------------------
+    | 11   10    9    8 |
+    ---------------------
