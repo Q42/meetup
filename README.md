@@ -29,7 +29,7 @@ All the lights: http://10.42.39.194/api/vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2
       --url http://10.42.39.194/api/vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2/lights/4/state \
       --data '{"alert": "select"}'
 
-## Lampen indeling bij Q42:
+## Light layout Q42:
     -----           -----
     | 3 |           | 7 |
     |   |           |   |
@@ -41,3 +41,7 @@ All the lights: http://10.42.39.194/api/vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2
     ---------------------
     | 11   10    9    8 |
     ---------------------
+
+## More documentation:
+https://www.developers.meethue.com/documentation/lights-api
+Login with username and password: `meetup`
