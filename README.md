@@ -43,7 +43,8 @@ All the lights: http://10.42.39.194/api/vJB9Z1Q-SnW2Lunvzohsn2O17yVq8kqfhsHnNNa2
     ---------------------
 
 ## Links to Android Hue SDKs
-You can include these in your `libs` folder
+You can include these in your `libs` folder:
+
 https://github.com/PhilipsHue/PhilipsHueSDK-Java-MultiPlatform-Android/raw/master/QuickStartApp/libs/huelocalsdk.jar
 https://github.com/PhilipsHue/PhilipsHueSDK-Java-MultiPlatform-Android/raw/master/QuickStartApp/libs/huesdkresources.jar
 
